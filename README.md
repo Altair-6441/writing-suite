@@ -2,7 +2,8 @@
 a phone stand/ pen holder/ paperweight
 
 print A1-5 & O1
-the paperweight cut with a waterjet
+
+the paperweight was cut on a waterjet
 
 This also needs the folowing m3 hardware: 3 square nuts, 2 socket bolts cut to size, 1 hex nut, 2 countersink bolts cut to size.
 
